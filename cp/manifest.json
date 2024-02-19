@@ -1,0 +1,55 @@
+{
+  "lang": "en-us",
+  "name": "Discord Bot || No Name Studio",
+  "short_name": "No Name Bot",
+  "description": "No Name Bot is a multifunctional, user-friendly and intuitive Discord Bot created by No Name Studio that provides best features in Discord servers. The website provides a range of tools and settings that enable users to tailor bot's responses, permissions, and commands to suit their specific needs.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#24262D",
+  "theme_color": "#434ce8",
+  "orientation": "portrait-primary",
+  "author": "No Name Studio",
+  "copyright": "(c) Copyright 2024 No Name Studio",
+  "icons": [
+    {
+      "src": "img/icons/icon-72x72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "img/icons/icon-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "img/icons/icon-128x128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "img/icons/icon-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "img/icons/icon-152x152.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "img/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/icons/icon-384x384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "img/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
