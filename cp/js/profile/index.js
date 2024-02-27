@@ -1,2 +1,96 @@
-// ©️2024 No Name Studio, All right reserved //
-function _38v(){var t=['gaGqpfUHDrboYxuzt:FxUbmhlaMnkAMKcQmOV','data','visibility','\x20<span\x20class=\x22text-info\x22><i\x20class=\x22bi\x20bi-patch-check\x22></i></span></h5>','LcXp.AWnndQxNUsvnVg.Ame;loMcHHBJEalfBdhDBostSXByEPVZgjIyLiOTGMGXO','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<i\x20class=\x22bi\x20bi-youtube\x22></i>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</a>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</li>','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li\x20class=\x22position-relative\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<a\x20class=\x22text-white\x20bg-danger\x20d-flex\x20align-items-center\x20justify-content-center\x20p-2\x20fs-4\x20rounded-circle\x22\x20target=\x22_blank\x22\x20href=\x22https://www.youtube.com/channel/','1909450qBGVad','{}.constructor(\x22return\x20this\x22)(\x20)','<h5\x20class=\x22fs-5\x20mb-0\x20fw-semibold\x22>','length','2764557YrSySU','2767952yOqmuU','[gGqpfUHDrYxzFxUmhMAMKcQmOV]','youtube','forEach','[LXAWdQxNUVgAMHHBJEfBdDBSXByEPVZgjIyLiOTGMGXO]','globalName','pathname','gem','split','</h4>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22mb-0\x20fs-4\x22>Gem</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22col-lg-4\x20mt-n3\x20order-lg-2\x20order-1\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mt-n5\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22d-flex\x20align-items-center\x20justify-content-center\x20mb-2\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22linear-gradient\x20d-flex\x20align-items-center\x20justify-content-center\x20rounded-circle\x22\x20style=\x22width:\x20110px;\x20height:\x20110px;\x22\x20;=\x22\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22border\x20border-4\x20border-white\x20d-flex\x20align-items-center\x20justify-content-center\x20rounded-circle\x20overflow-hidden\x22\x20style=\x22width:\x20100px;\x20height:\x20100px;\x22\x20;=\x22\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22','\x22\x20alt=\x22Avatar\x22\x20class=\x22w-100\x20h-100\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22text-center\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg?w=1280&h=720','location','<div\x20style=\x22height:450px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20id=\x22userbanner\x22\x20src=\x27','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22col-lg-4\x20order-last\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ul\x20class=\x22list-unstyled\x20d-flex\x20align-items-center\x20justify-content-center\x20justify-content-lg-start\x20my-3\x20gap-3\x22\x20id=\x22connectionlinks\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','12338nmnoiv','#userprofile','balance','indexOf','637aSQPQU','apply','18lCkfRd','application/json','fromCharCode','GET','\x27\x20alt=\x22Banner\x22\x20class=\x22img-fluid\x22\x20style=\x22display:\x20block;margin-left:\x20auto;margin-right:\x20auto;\x20width:100%;height:100%;object-fit:cover;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22row\x20align-items-center\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22col-lg-4\x20order-lg-1\x20order-2\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22d-flex\x20align-items-center\x20justify-content-around\x20m-4\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22text-center\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h4\x20class=\x22mb-0\x20fw-semibold\x20lh-1\x22>938</h4>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22mb-0\x20fs-4\x22>Posts</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22text-center\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h4\x20class=\x22mb-0\x20fw-semibold\x20lh-1\x22>','charCodeAt','return\x20(function()\x20','log','html','cash','32659KvKNKK','slice','ajax','100XJxlBT','8810xluWpe','/avatar','/banner','type','connections','54312HkrdbV','replace','5186592yfwsgg','/profile/'];_38v=function(){return t;};return _38v();}function _38z(l,e){var v=_38v();return _38z=function(z,H){z=z-0x1dd;var g=v[z];return g;},_38z(l,e);}(function(l,e){var k=_38z,v=l();while(!![]){try{var z=parseInt(k(0x211))/0x1*(-parseInt(k(0x1ec))/0x2)+-parseInt(k(0x201))/0x3+parseInt(k(0x202))/0x4+-parseInt(k(0x1fd))/0x5*(parseInt(k(0x1df))/0x6)+-parseInt(k(0x1dd))/0x7*(parseInt(k(0x1f2))/0x8)+parseInt(k(0x1f4))/0x9+parseInt(k(0x1ed))/0xa*(parseInt(k(0x1e9))/0xb);if(z===e)break;else v['push'](v['shift']());}catch(H){v['push'](v['shift']());}}}(_38v,0x8e1bd));var _38e=(function(){var l=!![];return function(e,v){var z=l?function(){var p=_38z;if(v){var H=v[p(0x1de)](e,arguments);return v=null,H;}}:function(){};return l=![],z;};}()),_38l=_38e(this,function(){var W=_38z,l=function(){var X=_38z,R;try{R=Function(X(0x1e5)+X(0x1fe)+');')();}catch(f){R=window;}return R;},e=l(),v=new RegExp(W(0x206),'g'),z=W(0x1fa)[W(0x1f3)](v,'')[W(0x20a)](';'),H,g,r,Y,Z=function(R,f,o){var y=W;if(R[y(0x200)]!=f)return![];for(var T=0x0;T<f;T++){for(var V=0x0;V<o['length'];V+=0x2){if(T==o[V]&&R[y(0x1e4)](T)!=o[V+0x1])return![];}}return!![];},c=function(R,f,o){return Z(f,o,R);},s=function(R,f,o){return c(f,R,o);},P=function(R,f,o){return s(f,o,R);};for(var K in e){if(Z(K,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){H=K;break;}}for(var b in e[H]){if(P(0x6,b,[0x5,0x6e,0x0,0x64])){g=b;break;}}for(var N in e[H]){if(s(N,[0x7,0x6e,0x0,0x6c],0x8)){r=N;break;}}if(!('~'>g))for(var C in e[H][r]){if(c([0x7,0x65,0x0,0x68],C,0x8)){Y=C;break;}}if(!H||!e[H])return;var Q=e[H][g],A=!!e[H][r]&&e[H][r][Y],h=Q||A;if(!h)return;var x=![];for(var B=0x0;B<z[W(0x200)];B++){var g=z[B],J=g[0x0]===String[W(0x1e1)](0x2e)?g[W(0x1ea)](0x1):g,w=h[W(0x200)]-J['length'],F=h[W(0x214)](J,w),n=F!==-0x1&&F===w;n&&((h[W(0x200)]==g[W(0x200)]||g[W(0x214)]('.')===0x0)&&(x=!![]));}if(!x){var G=new RegExp(W(0x203),'g'),O=W(0x1f6)[W(0x1f3)](G,'');e[H][r]=O;}});_38l(),$(function(){'use strict';var q=_38z;var l='',e='',v='';$[q(0x1eb)]({'url':q(0x1f5)+window[q(0x20e)]['pathname']['split']('/')[0x2]+q(0x1ee),'method':'GET','contentType':'application/json','success':function(z){v=z;}}),$[q(0x1eb)]({'url':q(0x1f5)+window[q(0x20e)][q(0x208)][q(0x20a)]('/')[0x2]+'/info','method':q(0x1e2),'contentType':q(0x1e0),'success':function(z){var u=q;$['ajax']({'url':'/profile/'+window[u(0x20e)][u(0x208)][u(0x20a)]('/')[0x2]+u(0x1ef),'method':u(0x1e2),'contentType':u(0x1e0),'success':function(H){var m=u;l=H,console[m(0x1e6)](z);const g=z[m(0x1f7)];g['connections']&&g[m(0x1f1)][m(0x205)]((Y,Z)=>{var S=m;Y[S(0x1f0)]===S(0x204)&&Y[S(0x1f8)]===0x1&&(e+=S(0x1fc)+Y['id']+S(0x1fb));}),$(m(0x212))[m(0x1e7)]($(m(0x20f)+l+m(0x1e3)+z['db'][m(0x213)][m(0x1e8)]+'</h4>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22mb-0\x20fs-4\x22>Cash</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22text-center\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h4\x20class=\x22mb-0\x20fw-semibold\x20lh-1\x22>'+z['db']['balance'][m(0x209)]+m(0x20b)+v+m(0x20c)+(g[m(0x207)]?m(0x1ff)+g[m(0x207)]+m(0x1f9):'')+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22mb-0\x20fs-4\x22>@'+g['username']+m(0x210)+e+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20'));},'error':function(){var d=u;l=d(0x20d);}});},'error':function(z){var a=q;console[a(0x1e6)](z);}});});
+$(function () {
+  "use strict";
+  var userbanner = "";
+  var connectionlinks = "";
+  var avatar = "";
+  $.ajax({
+    url: `/profile/${window.location.pathname.split("/")[2]}/avatar`,
+    method: "GET",
+    contentType: "application/json",
+    success: function (res) {
+      avatar = res;
+    }
+  })
+
+  $.ajax({
+    url: `/profile/${window.location.pathname.split("/")[2]}/info`,
+    method: "GET",
+    contentType: "application/json",
+    success: function (res) {
+      $.ajax({
+        url: `/profile/${window.location.pathname.split("/")[2]}/banner`,
+        method: "GET",
+        contentType: "application/json",
+        success: function (a) {
+          userbanner = a;
+
+          console.log(res);
+          const user = res.data;
+          if (user.connections) {
+
+            user.connections.forEach((r, i) => {
+              if (r.type === "youtube" && r.visibility === 1) {
+                connectionlinks += `
+                          <li class="position-relative">
+                            <a class="text-white bg-danger d-flex align-items-center justify-content-center p-2 fs-4 rounded-circle" target="_blank" href="https://www.youtube.com/channel/${r.id}">
+                              <i class="bi bi-youtube"></i>
+                            </a>
+                          </li>`;
+              }
+            })
+          }
+
+          $("#userprofile").html(
+            $(`<div style="height:450px;">
+                <img id="userbanner" src='${userbanner}' alt="Banner" class="img-fluid" style="display: block;margin-left: auto;margin-right: auto; width:100%;height:100%;object-fit:cover;">
+              </div>
+                    <div class="row align-items-center">
+                      <div class="col-lg-4 order-lg-1 order-2">
+                        <div class="d-flex align-items-center justify-content-around m-4">
+                          <div class="text-center">
+                            <h4 class="mb-0 fw-semibold lh-1">938</h4>
+                            <p class="mb-0 fs-4">Posts</p>
+                          </div>
+                          <div class="text-center">
+                            <h4 class="mb-0 fw-semibold lh-1">${res.db.balance.cash}</h4>
+                            <p class="mb-0 fs-4">Cash</p>
+                          </div>
+                          <div class="text-center">
+                            <h4 class="mb-0 fw-semibold lh-1">${res.db.balance.gem}</h4>
+                            <p class="mb-0 fs-4">Gem</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-lg-4 mt-n3 order-lg-2 order-1">
+                        <div class="mt-n5">
+                          <div class="d-flex align-items-center justify-content-center mb-2">
+                            <div class="linear-gradient d-flex align-items-center justify-content-center rounded-circle" style="width: 110px; height: 110px;" ;="">
+                              <div class="border border-4 border-white d-flex align-items-center justify-content-center rounded-circle overflow-hidden" style="width: 100px; height: 100px;" ;="">
+                                <img src="${avatar}" alt="Avatar" class="w-100 h-100">
+                              </div>
+                            </div>
+                          </div>
+                          <div class="text-center">
+                            ${user.globalName ? `<h5 class="fs-5 mb-0 fw-semibold">${user.globalName} <span class="text-info"><i class="bi bi-patch-check"></i></span></h5>` : ""}
+                            <p class="mb-0 fs-4">@${user.username}</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-lg-4 order-last">
+                        <ul class="list-unstyled d-flex align-items-center justify-content-center justify-content-lg-start my-3 gap-3" id="connectionlinks">
+                          ${connectionlinks}
+                        </ul>
+                      </div>
+                    </div>
+  `))
+        },
+        error: function () {
+          userbanner = "https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg?w=1280&h=720";
+        }
+      })
+    },
+    error: function (res) {
+      console.log(res)
+    }
+  })
+});

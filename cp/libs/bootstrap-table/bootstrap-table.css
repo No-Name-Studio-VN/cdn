@@ -172,21 +172,21 @@
 }
 
 .bootstrap-table .fixed-table-container.fixed-height:not(.has-footer) {
-  border-bottom: 1px solid #dee2e6;
+  border-bottom: 1px solid #ebf1f6;
 }
 
 .bootstrap-table .fixed-table-container.fixed-height.has-card-view {
-  border-top: 1px solid #dee2e6;
-  border-bottom: 1px solid #dee2e6;
+  border-top: 1px solid #ebf1f6;
+  border-bottom: 1px solid #ebf1f6;
 }
 
 .bootstrap-table .fixed-table-container.fixed-height .fixed-table-border {
-  border-left: 1px solid #dee2e6;
-  border-right: 1px solid #dee2e6;
+  border-left: 1px solid #ebf1f6;
+  border-right: 1px solid #ebf1f6;
 }
 
 .bootstrap-table .fixed-table-container.fixed-height .table thead th {
-  border-bottom: 1px solid #dee2e6;
+  border-bottom: 1px solid #ebf1f6;
 }
 
 .bootstrap-table .fixed-table-container.fixed-height .table-dark thead th {

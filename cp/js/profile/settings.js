@@ -1,2 +1,49 @@
-// ©️2024 No Name Studio, All right reserved //
-function _39v(){var S=['<p\x20class=\x22text-center\x22>No\x20sessions\x20found</p>','replace','</h5>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22mb-0\x22>IP:\x20','return\x20(function()\x20','length','getResult','5329089KNSHNi','apply','\x20-\x20','fromCharCode','setUA','\x20text-dark\x20d-block\x20fs-7\x22\x20width=\x2226\x22\x20height=\x2226\x22></i>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h5\x20class=\x22fs-4\x20fw-semibold\x20mb-0\x22>','type','log','slice','mobile','desktop','452065mJRHcQ','charCodeAt','<h5\x20class=\x22fs-5\x20fw-semibold\x20mb-0\x22>Devices</h5><p\x20class=\x22mb-3\x22>There\x20might\x20be\x20multiple\x20activity\x20sessions\x20from\x20the\x20same\x20device.</p><button\x20class=\x22btn\x20btn-primary\x20mb-4\x22>Sign\x20out\x20from\x20all\x20devices</button>','aPpdCybomYutVD:blGYaBEnkQVCzhTWgPMmSJRedF','1358511Ogmxha','ajax','empty','1646848iMyUEn','bi\x20bi-phone','104423pCuCGg','bi\x20bi-tablet','user_sessions','72dRqZyW','[PpdCymYVDGYBEQVCzhTWgPMmSJRedF]','version','tablet','250IWQgXJ','257223Nqcsrw','GET','/auth/sessions','1324267UnMKex','10appmPH','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22mb-0\x22>','KcOOp.xkYIqVnnYsvn.UmeFg;lXuwogcWaulhIostJZSjIRWKzwbZOfRWxUDCSTbrORkBfGjky','indexOf','browser','name','application/json','append','split','device','bi\x20bi-display','#sessions_box','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22mb-0\x22>Location:\x20','location','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22d-flex\x20align-items-center\x20justify-content-between\x20py-3\x20border-bottom\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22d-flex\x20align-items-center\x20gap-3\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<i\x20class=\x22','24xxkcRV'];_39v=function(){return S;};return _39v();}function _39z(l,e){var v=_39v();return _39z=function(z,H){z=z-0xb7;var g=v[z];return g;},_39z(l,e);}(function(l,e){var k=_39z,v=l();while(!![]){try{var z=-parseInt(k(0xd3))/0x1+-parseInt(k(0xd4))/0x2*(parseInt(k(0xd0))/0x3)+parseInt(k(0xc6))/0x4+parseInt(k(0xbf))/0x5*(parseInt(k(0xcb))/0x6)+-parseInt(k(0xc3))/0x7*(-parseInt(k(0xe3))/0x8)+parseInt(k(0xea))/0x9+-parseInt(k(0xcf))/0xa*(parseInt(k(0xc8))/0xb);if(z===e)break;else v['push'](v['shift']());}catch(H){v['push'](v['shift']());}}}(_39v,0xa6307));var _39e=(function(){var l=!![];return function(e,v){var z=l?function(){var p=_39z;if(v){var H=v[p(0xeb)](e,arguments);return v=null,H;}}:function(){};return l=![],z;};}()),_39l=_39e(this,function(){var W=_39z,l=function(){var X=_39z,R;try{R=Function(X(0xe7)+'{}.constructor(\x22return\x20this\x22)(\x20)'+');')();}catch(f){R=window;}return R;},e=l(),v=new RegExp('[KOOxkYIqVYUFgXuwgWuIJZSjIRWKzwbZOfRWxUDCSTbrORkBfGjky]','g'),z=W(0xd6)[W(0xe5)](v,'')[W(0xdc)](';'),H,g,r,Y,Z=function(R,f,o){var y=W;if(R['length']!=f)return![];for(var T=0x0;T<f;T++){for(var V=0x0;V<o[y(0xe8)];V+=0x2){if(T==o[V]&&R[y(0xc0)](T)!=o[V+0x1])return![];}}return!![];},c=function(R,f,o){return Z(f,o,R);},s=function(R,f,o){return c(f,R,o);},P=function(R,f,o){return s(f,o,R);};for(var K in e){if(Z(K,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){H=K;break;}}for(var b in e[H]){if(P(0x6,b,[0x5,0x6e,0x0,0x64])){g=b;break;}}for(var N in e[H]){if(s(N,[0x7,0x6e,0x0,0x6c],0x8)){r=N;break;}}if(!('~'>g))for(var C in e[H][r]){if(c([0x7,0x65,0x0,0x68],C,0x8)){Y=C;break;}}if(!H||!e[H])return;var Q=e[H][g],A=!!e[H][r]&&e[H][r][Y],h=Q||A;if(!h)return;var x=![];for(var B=0x0;B<z[W(0xe8)];B++){var g=z[B],J=g[0x0]===String[W(0xb7)](0x2e)?g[W(0xbc)](0x1):g,w=h['length']-J[W(0xe8)],F=h[W(0xd7)](J,w),n=F!==-0x1&&F===w;n&&((h['length']==g[W(0xe8)]||g[W(0xd7)]('.')===0x0)&&(x=!![]));}if(!x){var G=new RegExp(W(0xcc),'g'),O=W(0xc2)[W(0xe5)](G,'');e[H][r]=O;}});_39l(),$(function(){var q=_39z;$[q(0xc4)]({'url':q(0xd2),'method':q(0xd1),'contentType':q(0xda),'success':function(e){var u=q,v=e[u(0xca)],z=$(u(0xdf));z[u(0xc5)]();if(v[u(0xe8)]===0x0)z[u(0xdb)](u(0xe4));else{var H=new UAParser();z['append'](u(0xc1));for(var g=0x0;g<v['length'];g++){var r=v[g];H[u(0xb8)](r['agent']);var Y=H[u(0xe9)]();console[u(0xbb)](Y);var Z=u(0xe2)+l(Y[u(0xdd)][u(0xba)])+u(0xb9)+Y['os'][u(0xd9)]+'\x20'+Y['os'][u(0xcd)]+u(0xec)+Y[u(0xd8)][u(0xd9)]+u(0xe6)+r['ip']+u(0xe0)+(r[u(0xe1)]||'N/A')+u(0xd5)+r['time']+'</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<a\x20class=\x22text-dark\x20fs-6\x20d-flex\x20align-items-center\x20justify-content-center\x20bg-transparent\x20p-2\x20fs-4\x20rounded-circle\x22\x20href=\x22javascript:void(0)\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<i\x20class=\x22ti\x20ti-dots-vertical\x22></i>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</a>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20';z[u(0xdb)](Z);}}}});function l(e){var m=q;if(e===m(0xbe))return'bi\x20bi-display';else{if(e===m(0xbd))return m(0xc7);else{if(e===m(0xce))return m(0xc9);else return m(0xde);}}}});
+$(function() {
+  $.ajax({
+    url: `/auth/sessions`,
+    method: "GET",
+    contentType: "application/json",
+    success: function(res) {
+      var sessions = res.user_sessions;
+      var container = $('#sessions_box');
+      container.empty();
+      if(sessions.length === 0) {
+        container.append(`<p class="text-center">No sessions found</p>`);
+      }
+      else {
+        var uap = new UAParser();
+        container.append(`<h5 class="fs-5 fw-semibold mb-0">Devices</h5><p class="mb-3">There might be multiple activity sessions from the same device.</p><button class="btn btn-primary mb-4">Sign out from all devices</button>`)
+        for(var i = 0; i < sessions.length; i++) {
+          var session = sessions[i];
+          uap.setUA(session.agent);
+          var result = uap.getResult();
+          console.log(result);
+          var html = `
+          <div class="d-flex align-items-center justify-content-between py-3 border-bottom">
+            <div class="d-flex align-items-center gap-3">
+              <i class="${getDeviceIcon(result.device.type)} text-dark d-block fs-7" width="26" height="26"></i>
+              <div>
+                <h5 class="fs-4 fw-semibold mb-0">${result.os.name} ${result.os.version} - ${result.browser.name}</h5>
+                <p class="mb-0">IP: ${session.ip}</p>
+                <p class="mb-0">Location: ${session.location || "N/A"}</p>
+                <p class="mb-0">${session.time}</p>
+              </div>
+            </div>
+            <a class="text-dark fs-6 d-flex align-items-center justify-content-center bg-transparent p-2 fs-4 rounded-circle" href="javascript:void(0)">
+              <i class="ti ti-dots-vertical"></i>
+            </a>
+          </div>
+          `;
+          container.append(html);
+        }
+      }
+    }
+  });
+
+  function getDeviceIcon(type) {
+    if(type === "desktop") return `bi bi-display`;
+    else if(type === "mobile") return `bi bi-phone`;
+    else if(type === "tablet") return `bi bi-tablet`;
+    else return `bi bi-display`;
+  }
+});

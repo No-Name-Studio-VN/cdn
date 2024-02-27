@@ -1,2 +1,112 @@
-// ©️2024 No Name Studio, All right reserved //
-(function(l,e){var X=_21z,v=l();while(!![]){try{var z=parseInt(X(0x11e))/0x1+-parseInt(X(0x118))/0x2+parseInt(X(0x13f))/0x3*(parseInt(X(0x12c))/0x4)+parseInt(X(0x10f))/0x5*(-parseInt(X(0x10e))/0x6)+-parseInt(X(0x144))/0x7+parseInt(X(0x13a))/0x8*(parseInt(X(0x10b))/0x9)+parseInt(X(0x141))/0xa;if(z===e)break;else v['push'](v['shift']());}catch(H){v['push'](v['shift']());}}}(_21v,0x97a8a));function _21z(l,e){var v=_21v();return _21z=function(z,H){z=z-0x107;var g=v[z];return g;},_21z(l,e);}function _21v(){var t=['play','length','2542302ZMlYdA','5KzZKFr','owlCarousel','pause','maLboutT:ZKbclfanyNdkPxfrPxUrxYwyrhFAXeTr','#playlist','auto','attr','display','webmv,\x20ogv,\x20m4v,\x20oga,\x20mp3','940680bFXlkT','.mplayer\x20.jp-playlist.open\x20ul','parent','[xZUJxBuzfiMKkkxQTGQMOArYYjgbRUNGFuzFqYMRFAyKfPgSWuLDg]','init','return\x20(function()\x20','689735VXZGRY','.production-slider\x20.owl-carousel','preventDefault','.scroll-link','replace','fromCharCode','.mplayer','https://cdn.nnsvn.me/cp/media/kururin.gif','cxpZUJxBu.znfiMKnksvnkx.me;QTlGQoMOAcraYlYhjogbRUNsGFuztFqYMRFAyKfPgSWuLDg','event','jPlayer','animate','removeClass','/js/landing','20GWPHaQ','{}.constructor(\x22return\x20this\x22)(\x20)','300px','https://cdn.nnsvn.me/cp/media/music/usagi.mp3','href','#jplayer_N','-21px','stop','indexOf','Raphiiel','Nor','top','.musicbar','shown.bs.dropdown','8uNlYqx','.jp-play-me','Usagi\x20Flap','load','addClass','547158tgWeUH','cssSelector','9084530lMpCTS','active','[mLTZKcfyNdPxfrPxUrxYwyrhFAXeTr]','7638260iAyORy','offset','https://cdn.nnsvn.me/cp/media/aris-dancing.gif','css','split','866817BjdPAB'];_21v=function(){return t;};return _21v();}var _21e=(function(){var l=!![];return function(e,v){var z=l?function(){if(v){var H=v['apply'](e,arguments);return v=null,H;}}:function(){};return l=![],z;};}()),_21l=_21e(this,function(){var W=_21z,l;try{var v=Function(W(0x11d)+W(0x12d)+');');l=v();}catch(f){l=window;}var z=new RegExp(W(0x11b),'g'),H=W(0x126)[W(0x122)](z,'')[W(0x10a)](';'),g,r,Y,Z,c=function(o,T,V){var y=W;if(o[y(0x10d)]!=T)return![];for(var k=0x0;k<T;k++){for(var p=0x0;p<V[y(0x10d)];p+=0x2){if(k==V[p]&&o['charCodeAt'](k)!=V[p+0x1])return![];}}return!![];},s=function(o,T,V){return c(T,V,o);},P=function(o,T,V){return s(T,o,V);},K=function(o,T,V){return P(T,V,o);};for(var b in l){if(c(b,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){g=b;break;}}for(var N in l[g]){if(K(0x6,N,[0x5,0x6e,0x0,0x64])){r=N;break;}}for(var C in l[g]){if(P(C,[0x7,0x6e,0x0,0x6c],0x8)){Y=C;break;}}if(!('~'>r))for(var Q in l[g][Y]){if(s([0x7,0x65,0x0,0x68],Q,0x8)){Z=Q;break;}}if(!g||!l[g])return;var A=l[g][r],h=!!l[g][Y]&&l[g][Y][Z],x=A||h;if(!x)return;var B=![];for(var J=0x0;J<H[W(0x10d)];J++){var r=H[J],w=r[0x0]===String[W(0x123)](0x2e)?r['slice'](0x1):r,F=x[W(0x10d)]-w['length'],n=x[W(0x134)](w,F),G=n!==-0x1&&n===F;G&&((x['length']==r['length']||r[W(0x134)]('.')===0x0)&&(B=!![]));}if(!B){var O=new RegExp(W(0x143),'g'),R=W(0x112)[W(0x122)](O,'');l[g][Y]=R;}});_21l(),((()=>{var q=_21z;$(q(0x121))['on']('click',function(e){var u=q,v=$(this);$('html,\x20body')[u(0x133)]()[u(0x129)]({'scrollTop':$(v[u(0x115)](u(0x130)))[u(0x107)]()[u(0x137)]-0xa},0x3e8),e[u(0x120)]();}),AOS[q(0x11c)]({'once':!![],'mirror':![]}),$(q(0x11f))['owlCarousel']({'nav':![],'dots':!![],'loop':!![],'items':0x1,'dots':!![],'autoplay':!![],'autoplayTimeout':0x1388,'autoplayHoverPause':!![]}),$('.review-slider\x20.owl-carousel')[q(0x110)]({'loop':!![],'margin':0x0,'dots':!![],'autoplay':!![],'autoplayTimeout':0x1388,'autoplayHoverPause':!![],'responsive':{0x0:{'items':0x1},0x300:{'items':0x2},0x4b0:{'items':0x3}}});var l=new jPlayerPlaylist({'jPlayer':q(0x131),'cssSelectorAncestor':'#jp_container_N'},[{'title':q(0x13c),'artist':q(0x136),'mp3':q(0x12f),'poster':q(0x108)},{'title':'Kuru\x20Kuru','artist':q(0x135),'mp3':'https://cdn.nnsvn.me/cp/media/music/kurukuru.mp3','poster':q(0x125)}],{'playlistOptions':{'enableRemoveControls':!![],'autoPlay':![]},'swfPath':q(0x12b),'supplied':q(0x117),'smoothPlayBar':!![],'keyEnabled':!![],'audioFullScreen':![]});$(document)['on']($[q(0x128)][q(0x127)][q(0x111)],l[q(0x140)][q(0x128)],function(){var m=q;$(m(0x138))['removeClass'](m(0x129)),$(m(0x13b))[m(0x12a)](m(0x142)),$('.jp-play-me')[m(0x11a)]('li')[m(0x12a)]('active');}),$(document)['on']($['jPlayer'][q(0x127)][q(0x10c)],l[q(0x140)][q(0x128)],function(){var S=q;$('.musicbar')[S(0x13e)](S(0x129));}),$(q(0x113))['on'](q(0x139),function(){var d=q;$(d(0x119))['css']({'left':d(0x114),'right':d(0x132),'width':d(0x12e)});}),window['addEventListener'](q(0x13d),function(){var a=q;$(a(0x124))[a(0x109)](a(0x116),'');});})());
+(() => {
+  $(".scroll-link").on("click", function (t) {
+    var o = $(this);
+    $("html, body").stop().animate({
+      scrollTop: $(o.attr("href")).offset().top - 10
+    }, 1e3), t.preventDefault()
+  })
+  // Aos
+
+  AOS.init({
+    once: true,
+    mirror: false
+  });
+
+  // Production Slider
+
+  $('.production-slider .owl-carousel').owlCarousel({
+    nav: false,
+    dots: true,
+    loop: true,
+    items: 1,
+    dots: true,
+    autoplay: true,
+    autoplayTimeout: 5000,
+    autoplayHoverPause: true
+  })
+
+
+  // Review Slider
+
+  $('.review-slider .owl-carousel').owlCarousel({
+    loop: true,
+    margin: 0,
+    dots: true,
+    autoplay: true,
+    autoplayTimeout: 5000,
+    autoplayHoverPause: true,
+    responsive: {
+      0: {
+        items: 1
+      },
+      768: {
+        items: 2
+      },
+      1200: {
+        items: 3
+      }
+    }
+  })
+  var myPlaylist = new jPlayerPlaylist(
+    {
+      jPlayer: "#jplayer_N",
+      cssSelectorAncestor: "#jp_container_N",
+    },
+    [
+      {
+        title: "Usagi Flap",
+        artist: "Nor",
+        mp3: "https://cdn.nnsvn.me/cp/media/music/usagi.mp3",
+        poster: "https://cdn.nnsvn.me/cp/media/aris-dancing.gif",
+      },
+      {
+        title: "Kuru Kuru",
+        artist: "Raphiiel",
+        mp3: "https://cdn.nnsvn.me/cp/media/music/kurukuru.mp3",
+        poster: "https://cdn.nnsvn.me/cp/media/kururin.gif",
+      }
+    ],
+    {
+      playlistOptions: {
+        enableRemoveControls: true,
+        autoPlay: false,
+      },
+      swfPath: "/js/landing",
+      supplied: "webmv, ogv, m4v, oga, mp3",
+      smoothPlayBar: true,
+      keyEnabled: true,
+      audioFullScreen: false,
+    }
+  );
+
+  $(document).on(
+    $.jPlayer.event.pause,
+    myPlaylist.cssSelector.jPlayer,
+    function () {
+      $(".musicbar").removeClass("animate");
+      $(".jp-play-me").removeClass("active");
+      $(".jp-play-me").parent("li").removeClass("active");
+    }
+  );
+
+  $(document).on(
+    $.jPlayer.event.play,
+    myPlaylist.cssSelector.jPlayer,
+    function () {
+      $(".musicbar").addClass("animate");
+    }
+  );
+
+  $("#playlist").on("shown.bs.dropdown", function () {
+    $(".mplayer .jp-playlist.open ul").css({
+      left: "auto",
+      right: "-21px",
+      width: "300px",
+    });
+  });
+
+  window.addEventListener('load', function () {
+    $(".mplayer").css("display", "");
+  });
+
+})();
