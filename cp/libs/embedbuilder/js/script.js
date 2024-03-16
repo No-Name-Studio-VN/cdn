@@ -110,7 +110,7 @@ const urlOptions = ({ remove, set }) => {
     const url = new URL(location.href);
     if (remove) url.searchParams.delete(remove);
     if (set) url.searchParams.set(set[0], set[1]);
-    
+
     try {
         history.replaceState(null, null, url.href.replace(/(?<!data=[^=]+|=)=(&|$)/g, x => x === '=' ? '' : '&'));
     } catch (e) {
@@ -464,7 +464,7 @@ addEventListener('DOMContentLoaded', () => {
     //             }
     //             return line;
     //         }).join('\n');
-            
+
     //     if (inlineBlock)
     //         // Treat both inline code and code blocks as inline code
     //         txt = txt.replace(/`([^`]+?)`|``([^`]+?)``|```((?:\n|.)+?)```/g, (m, x, y, z) => x ? `<code class="inline">${x}</code>` : y ? `<code class="inline">${y}</code>` : z ? `<code class="inline">${z}</code>` : m);
@@ -508,7 +508,7 @@ addEventListener('DOMContentLoaded', () => {
 
             // parse text in brackets and then the URL in parentheses.
             .replace(/\[([^\[\]]+)\]\((.+?)\)/g, `<a title="$1" target="_blank" class="anchor" href="$2">$1</a>`)
-    
+
         if (inlineBlock)
             // Treat both inline code and code blocks as inline code
             txt = txt.replace(/`([^`]+?)`|``([^`]+?)``|```((?:\n|.)+?)```/g, (m, x, y, z) => x ? `<code class="inline">${x}</code>` : y ? `<code class="inline">${y}</code>` : z ? `<code class="inline">${z}</code>` : m);
@@ -1058,7 +1058,7 @@ addEventListener('DOMContentLoaded', () => {
 
             switch (only) {
                 // If only updating the message content and nothing else, return here.
-                case 'content': 
+                case 'content':
                     return externalParsing({ element: embedContent });
                 case 'embedTitle':
                     const embedTitle = embed?.querySelector('.embedTitle');
@@ -1602,9 +1602,9 @@ function saveJson() {
     }} event.data
  */
 
-window.addEventListener('message', function(e) {
+window.addEventListener('message', function (e) {
     const res = e.data;
-    switch(res.event_id) {
+    switch (res.event_id) {
         case "buildRequest":
             json = JSON.parse(localStorage.getItem('embedbuilderjson'));
             buildGui();
@@ -1612,14 +1612,14 @@ window.addEventListener('message', function(e) {
             break;
         case "updateUsername":
             var newUsername = res.data.username;
-            if(res.data.save == true) localStorage.setItem('ebUsername', newUsername);
+            if (res.data.save == true) localStorage.setItem('ebUsername', newUsername);
             username = newUsername;
             options.username = newUsername;
             document.querySelector('.username').innerText = newUsername;
             break;
         case "updateAvatar":
             var newAvatar = res.data.avatar;
-            if(res.data.save == true) localStorage.setItem('ebAvatarurl', newAvatar);
+            if (res.data.save == true) localStorage.setItem('ebAvatarurl', newAvatar);
             avatar = newAvatar;
             options.avatar = newAvatar;
             updateAvatar(newAvatar);
@@ -1628,10 +1628,10 @@ window.addEventListener('message', function(e) {
 });
 
 function updateAvatar(url) {
-    document.querySelector('.avatar').onerror = function() {
+    document.querySelector('.avatar').onerror = function () {
         console.log("Failed to load avatar, using default avatar instead.");
-        this.src="https://cdn.discordapp.com/embed/avatars/0.png";
+        this.src = "https://cdn.discordapp.com/embed/avatars/0.png";
     };
     document.querySelector('.avatar').src = url;
-    
+
 }
