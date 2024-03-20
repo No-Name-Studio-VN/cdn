@@ -52,7 +52,7 @@
       "sizes": "512x512"
     }
   ],
-  "shortcut": [
+  "shortcuts": [
     {
       "name": "Dashboard",
       "url": "/dashboard",
