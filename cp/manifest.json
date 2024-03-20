@@ -3,7 +3,7 @@
   "name": "Discord Bot || No Name Studio",
   "short_name": "No Name Bot",
   "description": "No Name Bot is a multifunctional, user-friendly and intuitive Discord Bot created by No Name Studio that provides best features in Discord servers and you don't need to invite Ticket Bot, Giveaway Bot, Music Bot, Moderation Bot, Chatbot, Fun bot or anything else. The website provides a range of tools and settings that enable users to change bot's responses, permissions, and commands to match personal preferences.",
-  "start_url": "/",
+  "start_url": "https://cp.nnsvn.me",
   "display": "standalone",
   "background_color": "#24262D",
   "theme_color": "#434ce8",
@@ -141,5 +141,6 @@
       "form_factor": "narrow",
       "label": "Homescreen of Emojis"
     }
-  ]
+  ],
+  "prefer_related_applications": false
 }
