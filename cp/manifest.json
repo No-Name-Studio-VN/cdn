@@ -12,42 +12,42 @@
   "copyright": "(c) Copyright 2024 No Name Studio",
   "icons": [
     {
-      "src": "img/icons/icon-72x72.png",
+      "src": "https://cdn.nnsvn.me/cp/img/icons/icon-72x72.png",
       "type": "image/png",
       "sizes": "72x72"
     },
     {
-      "src": "img/icons/icon-96x96.png",
+      "src": "https://cdn.nnsvn.me/cp/img/icons/icon-96x96.png",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "img/icons/icon-128x128.png",
+      "src": "https://cdn.nnsvn.me/cp/img/icons/icon-128x128.png",
       "type": "image/png",
       "sizes": "128x128"
     },
     {
-      "src": "img/icons/icon-144x144.png",
+      "src": "https://cdn.nnsvn.me/cp/img/icons/icon-144x144.png",
       "type": "image/png",
       "sizes": "144x144"
     },
     {
-      "src": "img/icons/icon-152x152.png",
+      "src": "https://cdn.nnsvn.me/cp/img/icons/icon-152x152.png",
       "type": "image/png",
       "sizes": "152x152"
     },
     {
-      "src": "img/icons/icon-192x192.png",
+      "src": "https://cdn.nnsvn.me/cp/img/icons/icon-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "img/icons/icon-384x384.png",
+      "src": "https://cdn.nnsvn.me/cp/img/icons/icon-384x384.png",
       "type": "image/png",
       "sizes": "384x384"
     },
     {
-      "src": "img/icons/icon-512x512.png",
+      "src": "https://cdn.nnsvn.me/cp/img/icons/icon-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
@@ -121,21 +121,21 @@
   ],
   "screenshots" : [
     {
-      "src": "/media/dbshow/pc_settings.png",
+      "src": "https://cdn.nnsvn.me/cp/media/dbshow/pc_settings.png",
       "sizes": "1920x1080",
       "type": "image/png",
       "form_factor": "wide",
       "label": "Homescreen of Bot Settings"
     },
     {
-      "src": "/media/dbshow/mb_settings.png",
+      "src": "https://cdn.nnsvn.me/cp/media/dbshow/mb_settings.png",
       "sizes": "1242x2688",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Homescreen of Bot Settings"
     },
     {
-      "src": "/media/dbshow/mb_emoji.png",
+      "src": "https://cdn.nnsvn.me/cp/media/dbshow/mb_emoji.png",
       "sizes": "1242x2688",
       "type": "image/png",
       "form_factor": "narrow",
