@@ -2,12 +2,12 @@
   "lang": "en-us",
   "name": "Discord Bot || No Name Studio",
   "short_name": "No Name Bot",
-  "description": "No Name Bot is a multifunctional, user-friendly and intuitive Discord Bot created by No Name Studio that provides best features in Discord servers. The website provides a range of tools and settings that enable users to tailor bot's responses, permissions, and commands to suit their specific needs.",
+  "description": "No Name Bot is a multifunctional, user-friendly and intuitive Discord Bot created by No Name Studio that provides best features in Discord servers and you don't need to invite Ticket Bot, Giveaway Bot, Music Bot, Moderation Bot, Chatbot, Fun bot or anything else. The website provides a range of tools and settings that enable users to change bot's responses, permissions, and commands to match personal preferences.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#24262D",
   "theme_color": "#434ce8",
-  "orientation": "portrait-primary",
+  "orientation": "any",
   "author": "No Name Studio",
   "copyright": "(c) Copyright 2024 No Name Studio",
   "icons": [
@@ -50,6 +50,96 @@
       "src": "img/icons/icon-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
+    }
+  ],
+  "shortcut": [
+    {
+      "name": "Dashboard",
+      "url": "/dashboard",
+      "description": "Manage your server with ease"
+    },
+    {
+      "name": "Applications",
+      "url": "/apps",
+      "description": "List of applications"
+    },
+    {
+      "name": "Shortlink Manager",
+      "url": "/shortlink",
+      "description": "Manage your shortlinks"
+    },
+    {
+      "name": "Notepad",
+      "url": "/notepad",
+      "description": "Create and manage your notes"
+    },
+    {
+      "name": "Commands",
+      "url": "/commands",
+      "description": "List of commands"
+    },
+    {
+      "name": "Embed Builder",
+      "url": "/embedbuilder",
+      "description": "Create and manage your embeds"
+    },
+    {
+      "name": "Profile",
+      "url": "/profile",
+      "description": "Manage your profile"
+    },
+    {
+      "name": "Guidebook",
+      "url": "https://bot.nnsvn.me/docs",
+      "description": "Learn how to use the bot"
+    },
+    {
+      "name": "Nối Từ",
+      "url": "/noitu",
+      "description": "Nối từ"
+    },
+    {
+      "name": "Articles",
+      "url": "/p",
+      "description": "Articles"
+    },
+    {
+      "name": "Support",
+      "url": "/requests",
+      "description": "Get support"
+    },
+    {
+      "name": "Report",
+      "url": "/report",
+      "description": "Report a bug"
+    },
+    {
+      "name": "UET Toolkit",
+      "url": "/uettoolkit",
+      "description": "UET Toolkit"
+    }
+  ],
+  "screenshots" : [
+    {
+      "src": "/media/dbshow/pc_settings.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Homescreen of Bot Settings"
+    },
+    {
+      "src": "/media/dbshow/mb_settings.png",
+      "sizes": "1242x2688",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Homescreen of Bot Settings"
+    },
+    {
+      "src": "/media/dbshow/mb_emoji.png",
+      "sizes": "1242x2688",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Homescreen of Emojis"
     }
   ]
 }
