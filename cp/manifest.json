@@ -55,7 +55,7 @@
   "shortcuts": [
     {
       "name": "Dashboard",
-      "url": "/https://cp.nnsvn.me/dashboard",
+      "url": "https://cp.nnsvn.me/dashboard",
       "description": "Manage your server with ease",
       "icons": [
         {
@@ -72,7 +72,7 @@
     },
     {
       "name": "Applications",
-      "url": "/https://cp.nnsvn.me/apps",
+      "url": "https://cp.nnsvn.me/apps",
       "description": "List of applications",
       "icons": [
         {
@@ -89,7 +89,7 @@
     },
     {
       "name": "Shortlink Manager",
-      "url": "/https://cp.nnsvn.me/shortlink",
+      "url": "https://cp.nnsvn.me/shortlink",
       "description": "Manage your shortlinks",
       "icons": [
         {
@@ -106,7 +106,7 @@
     },
     {
       "name": "Notepad",
-      "url": "/https://cp.nnsvn.me/notepad",
+      "url": "https://cp.nnsvn.me/notepad",
       "description": "Create and manage your notes",
       "icons": [
         {
@@ -123,7 +123,7 @@
     },
     {
       "name": "Commands",
-      "url": "/https://cp.nnsvn.me/commands",
+      "url": "https://cp.nnsvn.me/commands",
       "description": "List of commands",
       "icons": [
         {
@@ -140,7 +140,7 @@
     },
     {
       "name": "Embed Builder",
-      "url": "/https://cp.nnsvn.me/embedbuilder",
+      "url": "https://cp.nnsvn.me/embedbuilder",
       "description": "Create and manage your embeds",
       "icons": [
         {
@@ -157,7 +157,7 @@
     },
     {
       "name": "Profile",
-      "url": "/https://cp.nnsvn.me/profile",
+      "url": "https://cp.nnsvn.me/profile",
       "description": "Manage your profile",
       "icons": [
         {
@@ -173,25 +173,8 @@
       ]
     },
     {
-      "name": "Nối Từ",
-      "url": "/https://cp.nnsvn.me/noitu",
-      "description": "Nối từ",
-      "icons": [
-        {
-          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-96x96.png",
-          "type": "image/png",
-          "sizes": "96x96"
-        },
-        {
-          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-512x512.png",
-          "type": "image/png",
-          "sizes": "512x512"
-        }
-      ]
-    },
-    {
       "name": "Articles",
-      "url": "/https://cp.nnsvn.me/p",
+      "url": "https://cp.nnsvn.me/p",
       "description": "Articles",
       "icons": [
         {
@@ -208,7 +191,7 @@
     },
     {
       "name": "Support",
-      "url": "/https://cp.nnsvn.me/requests",
+      "url": "https://cp.nnsvn.me/requests",
       "description": "Get support",
       "icons": [
         {
@@ -224,25 +207,8 @@
       ]
     },
     {
-      "name": "Report",
-      "url": "/https://cp.nnsvn.me/report",
-      "description": "Report a bug",
-      "icons": [
-        {
-          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-96x96.png",
-          "type": "image/png",
-          "sizes": "96x96"
-        },
-        {
-          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-512x512.png",
-          "type": "image/png",
-          "sizes": "512x512"
-        }
-      ]
-    },
-    {
       "name": "UET Toolkit",
-      "url": "/https://cp.nnsvn.me/uettoolkit",
+      "url": "https://cp.nnsvn.me/uettoolkit",
       "description": "UET Toolkit",
       "icons": [
         {
