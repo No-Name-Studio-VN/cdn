@@ -55,71 +55,210 @@
   "shortcuts": [
     {
       "name": "Dashboard",
-      "url": "/dashboard",
-      "description": "Manage your server with ease"
+      "url": "/https://cp.nnsvn.me/dashboard",
+      "description": "Manage your server with ease",
+      "icons": [
+        {
+          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-96x96.png",
+          "type": "image/png",
+          "sizes": "96x96"
+        },
+        {
+          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-512x512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ]
     },
     {
       "name": "Applications",
-      "url": "/apps",
-      "description": "List of applications"
+      "url": "/https://cp.nnsvn.me/apps",
+      "description": "List of applications",
+      "icons": [
+        {
+          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-96x96.png",
+          "type": "image/png",
+          "sizes": "96x96"
+        },
+        {
+          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-512x512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ]
     },
     {
       "name": "Shortlink Manager",
-      "url": "/shortlink",
-      "description": "Manage your shortlinks"
+      "url": "/https://cp.nnsvn.me/shortlink",
+      "description": "Manage your shortlinks",
+      "icons": [
+        {
+          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-96x96.png",
+          "type": "image/png",
+          "sizes": "96x96"
+        },
+        {
+          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-512x512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ]
     },
     {
       "name": "Notepad",
-      "url": "/notepad",
-      "description": "Create and manage your notes"
+      "url": "/https://cp.nnsvn.me/notepad",
+      "description": "Create and manage your notes",
+      "icons": [
+        {
+          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-96x96.png",
+          "type": "image/png",
+          "sizes": "96x96"
+        },
+        {
+          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-512x512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ]
     },
     {
       "name": "Commands",
-      "url": "/commands",
-      "description": "List of commands"
+      "url": "/https://cp.nnsvn.me/commands",
+      "description": "List of commands",
+      "icons": [
+        {
+          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-96x96.png",
+          "type": "image/png",
+          "sizes": "96x96"
+        },
+        {
+          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-512x512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ]
     },
     {
       "name": "Embed Builder",
-      "url": "/embedbuilder",
-      "description": "Create and manage your embeds"
+      "url": "/https://cp.nnsvn.me/embedbuilder",
+      "description": "Create and manage your embeds",
+      "icons": [
+        {
+          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-96x96.png",
+          "type": "image/png",
+          "sizes": "96x96"
+        },
+        {
+          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-512x512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ]
     },
     {
       "name": "Profile",
-      "url": "/profile",
-      "description": "Manage your profile"
-    },
-    {
-      "name": "Guidebook",
-      "url": "https://bot.nnsvn.me/docs",
-      "description": "Learn how to use the bot"
+      "url": "/https://cp.nnsvn.me/profile",
+      "description": "Manage your profile",
+      "icons": [
+        {
+          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-96x96.png",
+          "type": "image/png",
+          "sizes": "96x96"
+        },
+        {
+          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-512x512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ]
     },
     {
       "name": "Nối Từ",
-      "url": "/noitu",
-      "description": "Nối từ"
+      "url": "/https://cp.nnsvn.me/noitu",
+      "description": "Nối từ",
+      "icons": [
+        {
+          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-96x96.png",
+          "type": "image/png",
+          "sizes": "96x96"
+        },
+        {
+          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-512x512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ]
     },
     {
       "name": "Articles",
-      "url": "/p",
-      "description": "Articles"
+      "url": "/https://cp.nnsvn.me/p",
+      "description": "Articles",
+      "icons": [
+        {
+          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-96x96.png",
+          "type": "image/png",
+          "sizes": "96x96"
+        },
+        {
+          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-512x512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ]
     },
     {
       "name": "Support",
-      "url": "/requests",
-      "description": "Get support"
+      "url": "/https://cp.nnsvn.me/requests",
+      "description": "Get support",
+      "icons": [
+        {
+          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-96x96.png",
+          "type": "image/png",
+          "sizes": "96x96"
+        },
+        {
+          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-512x512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ]
     },
     {
       "name": "Report",
-      "url": "/report",
-      "description": "Report a bug"
+      "url": "/https://cp.nnsvn.me/report",
+      "description": "Report a bug",
+      "icons": [
+        {
+          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-96x96.png",
+          "type": "image/png",
+          "sizes": "96x96"
+        },
+        {
+          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-512x512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ]
     },
     {
       "name": "UET Toolkit",
-      "url": "/uettoolkit",
-      "description": "UET Toolkit"
+      "url": "/https://cp.nnsvn.me/uettoolkit",
+      "description": "UET Toolkit",
+      "icons": [
+        {
+          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-96x96.png",
+          "type": "image/png",
+          "sizes": "96x96"
+        },
+        {
+          "src": "https://cdn.nnsvn.me/cp/img/icons/icon-512x512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ]
     }
   ],
-  "screenshots" : [
+  "screenshots": [
     {
       "src": "https://cdn.nnsvn.me/cp/media/dbshow/pc_settings.png",
       "sizes": "1920x1080",
